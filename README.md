@@ -24,4 +24,5 @@ Python Exercises
 ![Badge](https://img.shields.io/static/v1?label=&message=RANDOM&color=gray&style=for-the-badge&logo=RANDOM)
 ![Badge](https://img.shields.io/static/v1?label=&message=PYGAME&color=gray&style=for-the-badge&logo=PYGAME)
 ![Badge](https://img.shields.io/static/v1?label=&message=WEBBROWSER&color=gray&style=for-the-badge&logo=WEBBROWSER)
+![Badge](https://img.shields.io/static/v1?label=&message=DATATIME&color=gray&style=for-the-badge&logo=DATATIME)
 </p>

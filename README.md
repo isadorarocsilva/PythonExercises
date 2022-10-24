@@ -12,8 +12,8 @@ Python Exercises
 
 <h3> Guanabara's Python Course </h3> 
 
-- [ ] [MUNDO 1](https://github.com/isadorarocsilva/PythonExercises/tree/GuanabaraMundo1)
-- [ ] MUNDO 2
+- [x] [MUNDO 1](https://github.com/isadorarocsilva/PythonExercises/tree/GuanabaraMundo1)
+- [ ] [MUNDO 2](https://github.com/isadorarocsilva/PythonExercises/tree/GuanabaraMundo2)
 - [ ] MUNDO 3
 
 <h3> Python Libraries Used </h3>

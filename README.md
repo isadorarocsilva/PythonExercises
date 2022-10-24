@@ -10,7 +10,11 @@ Python Exercises
 
 <br/>
 
-<h3> Guanabara's Python Course </h3> 
+<h3>
+
+[Guanabara's Python Course](https://www.cursoemvideo.com/cursos/)
+
+</h3> 
 
 - [x] [MUNDO 1](https://github.com/isadorarocsilva/PythonExercises/tree/GuanabaraMundo1)
 - [ ] [MUNDO 2](https://github.com/isadorarocsilva/PythonExercises/tree/GuanabaraMundo2)

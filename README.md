@@ -28,13 +28,4 @@ FATEC's Course
 
 - [ALGORITHMS](https://github.com/isadorarocsilva/PythonExercises/tree/FATEC_Semestre1_Algoritmos)
 
-<h3> Python Libraries Used </h3>
-
-<p>
-
-![Badge](https://img.shields.io/static/v1?label=&message=MATH&color=gray&style=for-the-badge&logo=MATH)
-![Badge](https://img.shields.io/static/v1?label=&message=RANDOM&color=gray&style=for-the-badge&logo=RANDOM)
-![Badge](https://img.shields.io/static/v1?label=&message=PYGAME&color=gray&style=for-the-badge&logo=PYGAME)
-![Badge](https://img.shields.io/static/v1?label=&message=WEBBROWSER&color=gray&style=for-the-badge&logo=WEBBROWSER)
-![Badge](https://img.shields.io/static/v1?label=&message=DATATIME&color=gray&style=for-the-badge&logo=DATATIME)
-</p>
+<br/>

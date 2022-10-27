@@ -18,7 +18,15 @@ Python Exercises
 
 - [x] [MUNDO 1](https://github.com/isadorarocsilva/PythonExercises/tree/GuanabaraMundo1)
 - [ ] [MUNDO 2](https://github.com/isadorarocsilva/PythonExercises/tree/GuanabaraMundo2)
-- [ ] MUNDO 3
+- [ ] [MUNDO 3](https://github.com/isadorarocsilva/PythonExercises/tree/GuanabaraMundo3)
+
+<h3>
+
+FATEC's Course
+
+</h3>
+
+- [ALGORITHMS](https://github.com/isadorarocsilva/PythonExercises/tree/FATEC_Semestre1_Algoritmos)
 
 <h3> Python Libraries Used </h3>
 
